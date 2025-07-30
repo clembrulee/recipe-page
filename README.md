@@ -25,7 +25,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-with-css-grid-flexbox-notnth-last-child-pseudo-class-Y-9c0jlXN-)
 - Live Site URL: [Recipe Page](https://clembrulee.github.io/recipe-page/)
 
 ## My process
