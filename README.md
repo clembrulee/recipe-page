@@ -20,13 +20,13 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./Frontend-Mentor-Recipe-page-07-30-2025_02_17_PM.jpg)
+![](./Frontend-Mentor-Recipe-page-07-30-2025_02_17_PM.png)
 
 
 ### Links
 
 - Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Recipe Page](https://your-live-site-url.com)
+- Live Site URL: [Recipe Page](https://clembrulee.github.io/recipe-page/)
 
 ## My process
 

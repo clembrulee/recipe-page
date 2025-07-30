@@ -35,7 +35,8 @@ h2 {
   padding: 20px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 10px;
-  max-width: 500px;
+  /* max-width: 500px; */
+  width: clamp(250px, 50vw, 50vw);
   margin: 0 auto;
 }
 
