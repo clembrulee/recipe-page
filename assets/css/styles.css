@@ -1,0 +1,95 @@
+body {
+  background-color: hsl(30, 54%, 90%);
+  font-family: "Outfit", sans-serif;
+  color: hsl(30, 10%, 34%);
+}
+
+h1 {
+  font-family: "Young Serif", sans-serif;
+  font-weight: 900;
+  color: hsl(24, 5%, 18%);
+  margin-bottom: 0;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+h2 {
+  font-family: "Young Serif", sans-serif;
+  font-weight: 400;
+  color: hsl(14, 45%, 36%);
+}
+
+.divider {
+  border: 1px solid hsl(30, 18%, 87%);
+  width: 100%;
+  margin: 10px auto;
+}
+
+.recipe-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 10px;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.recipe-container section:nth-of-type(1) {
+  background-color: hsl(330, 100%, 98%);
+  padding: 0 20px;
+  border-radius: 10px;
+}
+
+.recipe-container section:nth-of-type(1) h3,
+.recipe-container section:nth-of-type(1) li::marker {
+  color: hsl(332, 51%, 32%);
+}
+
+.recipe-container section li::marker {
+  color: hsl(14, 45%, 36%);
+}
+
+.recipe-container section:nth-of-type(3) li::marker {
+  font-weight: 600;
+}
+
+.recipe-container section ol,
+.recipe-container section ul {
+  padding-left: 20px;
+}
+
+.recipe-container section li {
+  padding: 10px;
+}
+
+.recipe-container span {
+  font-weight: 600;
+  color: hsl(24, 5%, 18%);
+}
+
+.nutrition-table {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.nutrition-table p:not(:nth-last-child(-n + 2)) {
+  border-bottom: 1px solid hsl(30, 18%, 87%);
+}
+
+.nutrition-table p {
+  padding: 0 0 15px 20px;
+}
+
+.nutrition-table p:nth-of-type(even) {
+  color: hsl(14, 45%, 36%);
+  font-weight: 600;
+}
+
+footer {
+  margin-top: 20px;
+}
